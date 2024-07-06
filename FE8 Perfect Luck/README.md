@@ -1,6 +1,3 @@
-# ASM_Hacks
-Miscellaneous ASM Hacks/Patches I decided to do when I felt like procrastinating real work
-
 ## FE8 Perfect Luck
 Basic Idea is to rig the game in your favor, with a few exceptions. 
 ### Perfect Luck (Hit/Crit)
