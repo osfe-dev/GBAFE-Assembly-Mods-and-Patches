@@ -14,8 +14,3 @@ Also included is a slightly related "AlwaysPierce" txt installer that's meant to
 ## Credit
 - Credit to [Scraiza](https://www.youtube.com/channel/UCIcHbDiy0_2peLq5SsGx06A) for their FE7 Perfect Luck patch, which I used as a starting point for my FE8 Hit/Crit version
 - Credit to [Tequila](https://feuniverse.us/u/Tequila) on FEUniverse for creating an amazing in-depth [guide](https://feuniverse.us/t/gbafe-assembly-for-dummies-by-dummies/3563) that taught me how to use the debugger and the basics of Thumb Assembly
-
-
-## TODO 
-- Add short guide to installing ASM/text with Event Assembler and UPS patches with NUPS
-- Create more rigged skill procs like greatshield/silencer and find a way to only do it for player-controlled units (most important for greatshield since it literally makes enemy generals invincible; looking at you especially, Vigarde)
